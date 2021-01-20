@@ -1,3 +1,3 @@
 # Cubo-Sabado
 Cubo con cosas que hacer un sabado antes de 40tena
-https://github.com/Msabalza730/Cubo-Sabado/issues/1#issue-729083575
+https://msabalza730.github.io/Cubo-Sabado/
